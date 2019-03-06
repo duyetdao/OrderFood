@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\BT\\OderFood\\aFileChooser\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duyet\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\696eba15c65d2530d5b5a7719571be4c\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "239",
+                        "endColumns": "100",
+                        "endOffsets": "335"
+                    }
+                },
+                {
+                    "source": "C:\\BT\\OderFood\\aFileChooser\\build\\intermediates\\bundles\\debug\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,166,239",
+                        "endColumns": "53,56,72,77",
+                        "endOffsets": "104,161,234,312"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,166,340",
+                        "endColumns": "53,56,72,77",
+                        "endOffsets": "104,161,234,413"
+                    }
+                }
+            ]
+        }
+    ]
+}
